@@ -1,0 +1,104 @@
+.header{
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.mainbody{
+    background-color: rgb(255, 247, 234);
+    text-decoration: none;
+    text-align: center;
+    ul{
+        font-size: 50px;
+    }
+
+    
+
+}
+
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.random{
+    
+    width: 40;
+    align-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.common{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 60px;
+}
+
+.nav{
+    text-decoration: none;
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+    color: var(--bs-nav-link-disabled-color);
+}
+
+.ullist{
+    font-size: 20px;
+
+}
+
+.listtitle{
+    font-size: 45px;
+}
+
+.my-4 {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .caption{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+
+  }
+
+  nav a:hover{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2px
+}
+
+
+    ol{
+        list-style-position: inside;
+       
+    }
+
+    ul{
+        list-style-position: inside;
+    
+    }
+    
+    li span {
+        font-size: 70px;
+    }
